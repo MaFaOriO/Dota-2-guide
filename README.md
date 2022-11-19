@@ -1,2 +1,2 @@
 # Dota-2-guide
-Guide about dota 2.
+Hello! It's my first project. Rate please!
